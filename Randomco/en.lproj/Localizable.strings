@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Randomco
+
+  Created by Eduard Borras Ruiz on 4/2/23.
+  
+*/
+
+"more_download_btn" = "Download more users";
+"home_title" = "User list";
+"detail_title" = "Detail";

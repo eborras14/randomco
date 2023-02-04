@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "baseviper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EdeXApple/BaseViper.git",
+      "state" : {
+        "revision" : "cd5322fb2b36e2343e4ad41e9392272dcb4b78d7",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "progresshud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/relatedcode/ProgressHUD.git",
+      "state" : {
+        "revision" : "2b80c6f5a091c76a01f080545723f9b0bcf928cd",
+        "version" : "13.6.2"
+      }
+    }
+  ],
+  "version" : 2
+}
